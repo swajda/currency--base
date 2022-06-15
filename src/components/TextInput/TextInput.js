@@ -5,7 +5,9 @@ const TextInput = props => {
     <input
       {...props}
       className={styles.input}
-      type="text" />
+      type="text"
+      
+    />
   );
 };
 
